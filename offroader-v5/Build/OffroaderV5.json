@@ -1,0 +1,12 @@
+{
+"companyName": "mhdhammod",
+"productName": "Offroader V5",
+"dataUrl": "OffroaderV5.data.unityweb",
+"wasmCodeUrl": "OffroaderV5.wasm.code.unityweb",
+"wasmFrameworkUrl": "OffroaderV5.wasm.framework.unityweb",
+"TOTAL_MEMORY": 318767104,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

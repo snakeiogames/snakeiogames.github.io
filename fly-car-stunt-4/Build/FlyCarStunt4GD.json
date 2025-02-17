@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "FlyCarStunt4",
+"dataUrl": "FlyCarStunt4GD.data.unityweb",
+"wasmCodeUrl": "FlyCarStunt4GD.wasm.code.unityweb",
+"wasmFrameworkUrl": "FlyCarStunt4GD.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "FlyCarStunt4GD.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
