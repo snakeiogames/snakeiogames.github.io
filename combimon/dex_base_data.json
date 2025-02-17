@@ -1,0 +1,161 @@
+{
+  "mons": [
+    {
+      "type": "A",
+      "status": 0
+    },
+    {
+      "type": "B",
+      "status": 0
+    },
+    {
+      "type": "C",
+      "status": 0
+    },
+    {
+      "type": "AA",
+      "status": 0
+    },
+    {
+      "type": "AB",
+      "status": 0
+    },
+    {
+      "type": "AC",
+      "status": 0
+    },
+    {
+      "type": "BA",
+      "status": 0
+    },
+    {
+      "type": "BB",
+      "status": 0
+    },
+    {
+      "type": "BC",
+      "status": 0
+    },
+    {
+      "type": "CA",
+      "status": 0
+    },
+    {
+      "type": "CB",
+      "status": 0
+    },
+    {
+      "type": "CC",
+      "status": 0
+    },
+    {
+      "type": "AAA",
+      "status": 0
+    },
+    {
+      "type": "ABA",
+      "status": 0
+    },
+    {
+      "type": "ACA",
+      "status": 0
+    },
+    {
+      "type": "AAB",
+      "status": 0
+    },
+    {
+      "type": "ABB",
+      "status": 0
+    },
+    {
+      "type": "ACB",
+      "status": 0
+    },
+    {
+      "type": "AAC",
+      "status": 0
+    },
+    {
+      "type": "ABC",
+      "status": 0
+    },
+    {
+      "type": "ACC",
+      "status": 0
+    },
+    {
+      "type": "BAA",
+      "status": 0
+    },
+    {
+      "type": "BBA",
+      "status": 0
+    },
+    {
+      "type": "BCA",
+      "status": 0
+    },
+    {
+      "type": "BAB",
+      "status": 0
+    },
+    {
+      "type": "BBB",
+      "status": 0
+    },
+    {
+      "type": "BCB",
+      "status": 0
+    },
+    {
+      "type": "BAC",
+      "status": 0
+    },
+    {
+      "type": "BBC",
+      "status": 0
+    },
+    {
+      "type": "BCC",
+      "status": 0
+    },
+    {
+      "type": "CAA",
+      "status": 0
+    },
+    {
+      "type": "CBA",
+      "status": 0
+    },
+    {
+      "type": "CCA",
+      "status": 0
+    },
+    {
+      "type": "CAB",
+      "status": 0
+    },
+    {
+      "type": "CBB",
+      "status": 0
+    },
+    {
+      "type": "CCB",
+      "status": 0
+    }
+    ,
+    {
+      "type": "CAC",
+      "status": 0
+    },
+    {
+      "type": "CBC",
+      "status": 0
+    },
+    {
+      "type": "CCC",
+      "status": 0
+    }
+  ]
+}

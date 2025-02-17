@@ -1,0 +1,46 @@
+{
+	"ru": {
+		"build": "Строить",
+		"apply": "Применить",
+		"yes": "Да",
+		"no": "Нет",
+		"next": "Далее",
+		"watch_ad": "Реклама",
+		"music": "Музыка",
+		"sound": "Звук",
+		"reset": "Сброс",
+		"save": "Сохранить",
+		"close": "Закрыть"
+	},
+	"en": {
+		"build": "Build",
+		"apply": "Apply",
+		"yes": "Yes",
+		"no": "No",
+		"next": "Next",
+		"watch_ad": "Watch Ad",
+		"music": "Music",
+		"sound": "Sound",
+		"reset": "Reset",
+		"save": "Save",
+		"close": "Close"
+	},
+	"es": {
+	},
+	"fr": {
+	},
+	"de": {
+	},
+	"it": {
+	},
+	"zh": {
+	},
+	"ja": {
+	},
+	"ko": {
+	},
+	"pt": {
+	},
+	"tr": {
+	}
+}

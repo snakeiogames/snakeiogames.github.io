@@ -1,0 +1,424 @@
+{
+	"mons": [
+		{
+			"id": "A",
+			"colors": [
+				"#ffb0b8",
+				"",
+				""
+			],
+			"sprite": "A",
+			"name": "Bicho"
+		},
+		{
+			"id": "B",
+			"colors": [
+				"#adc5ff",
+				"",
+				""
+			],
+			"sprite": "B",
+			"name": "Pollo"
+		},
+		{
+			"id": "C",
+			"colors": [
+				"#faf7af",
+				"",
+				""
+			],
+			"sprite": "C",
+			"name": "Pato"
+		},
+		{
+			"id": "AA",
+			"colors": [
+				"#fa5768",
+				"#ffb0b8",
+				""
+			],
+			"sprite": "AA",
+			"name": "Mon4"
+		},
+		{
+			"id": "AB",
+			"colors": [
+				"#9a57f7",
+				"#adc5ff",
+				""
+			],
+			"sprite": "AB",
+			"name": "Mon5"
+		},
+		{
+			"id": "AC",
+			"colors": [
+				"#faab57",
+				"#faf7af",
+				""
+			],
+			"sprite": "AC",
+			"name": "Mon6"
+		},
+		{
+			"id": "BA",
+			"colors": [
+				"#9a57f7",
+				"#ffb0b8",
+				""
+			],
+			"sprite": "AB",
+			"name": "Mon7"
+		},
+		{
+			"id": "BB",
+			"colors": [
+				"#618efa",
+				"#adc5ff",
+				""
+			],
+			"sprite": "BB",
+			"name": "Mon8"
+		},
+		{
+			"id": "BC",
+			"colors": [
+				"#5ad44c",
+				"#faf7af",
+				""
+			],
+			"sprite": "BC",
+			"name": "Mon9"
+		},
+		{
+			"id": "CA",
+			"colors": [
+				"#faab57",
+				"#ffb0b8",
+				""
+			],
+			"sprite": "AC",
+			"name": "Mon10"
+		},
+		{
+			"id": "CB",
+			"colors": [
+				"#5ad44c",
+				"#adc5ff",
+				""
+			],
+			"sprite": "BC",
+			"name": "Mon11"
+		},
+		{
+			"id": "CC",
+			"colors": [
+				"#fcf665",
+				"#faf7af",
+				""
+			],
+			"sprite": "CC",
+			"name": "Mon12"
+		},
+		{
+			"id": "AAA",
+			"colors": [
+				"#f70720",
+				"#fa5768",
+				"#ffb0b8"
+			],
+			"sprite": "AAA",
+			"name": "Mon13"
+		},
+		{
+			"id": "AAB",
+			"colors": [
+				"#bc0bd4",
+				"#9a57f7",
+				"#adc5ff"
+			],
+			"sprite": "AAB",
+			"name": "Mon14"
+		},
+		{
+			"id": "AAC",
+			"colors": [
+				"#f75d0a",
+				"#faab57",
+				"#faf7af"
+			],
+			"sprite": "AAC",
+			"name": "Mon15"
+		},
+		{
+			"id": "ABA",
+			"colors": [
+				"#8a05f7",
+				"#9a57f7",
+				"#ffb0b8"
+			],
+			"sprite": "AAB",
+			"name": "Mon16"
+		},
+		{
+			"id": "ABB",
+			"colors": [
+				"#470cf7",
+				"#618efa",
+				"#adc5ff"
+			],
+			"sprite": "ABB",
+			"name": "Mon17"
+		},
+		{
+			"id": "ABC",
+			"colors": [
+				"#701c78",
+				"#5ad44c",
+				"#faf7af"
+			],
+			"sprite": "ABC",
+			"name": "Mon18"
+		},
+		{
+			"id": "ACA",
+			"colors": [
+				"#f5750c",
+				"#faab57",
+				"#ffb0b8"
+			],
+			"sprite": "AAC",
+			"name": "Mon19"
+		},
+		{
+			"id": "ACB",
+			"colors": [
+				"#9c6a16",
+				"#5ad44c",
+				"#adc5ff"
+			],
+			"sprite": "ABC",
+			"name": "Mon20"
+		},
+		{
+			"id": "ACC",
+			"colors": [
+				"#f7ab05",
+				"#fcf665",
+				"#faf7af"
+			],
+			"sprite": "ACC",
+			"name": "Mon21"
+		},
+		{
+			"id": "BAA",
+			"colors": [
+				"#8a05f7",
+				"#fa5768",
+				"#ffb0b8"
+			],
+			"sprite": "AAB",
+			"name": "Mon22"
+		},
+		{
+			"id": "BAB",
+			"colors": [
+				"#bc0bd4",
+				"#9a57f7",
+				"#adc5ff"
+			],
+			"sprite": "ABB",
+			"name": "Mon23"
+		},
+		{
+			"id": "BAC",
+			"colors": [
+				"#701c78",
+				"#faab57",
+				"#faf7af"
+			],
+			"sprite": "ABC",
+			"name": "Mon24"
+		},
+		{
+			"id": "BBA",
+			"colors": [
+				"#3d0af5",
+				"#9a57f7",
+				"#ffb0b8"
+			],
+			"sprite": "ABB",
+			"name": "Mon25"
+		},
+		{
+			"id": "BBB",
+			"colors": [
+				"#0a4ff5",
+				"#618efa",
+				"#adc5ff"
+			],
+			"sprite": "BBB",
+			"name": "Mon26"
+		},
+		{
+			"id": "BBC",
+			"colors": [
+				"#07a6f5",
+				"#5ad44c",
+				"#faf7af"
+			],
+			"sprite": "BBC",
+			"name": "Mon27"
+		},
+		{
+			"id": "BCA",
+			"colors": [
+				"#597810",
+				"#faab57",
+				"#ffb0b8"
+			],
+			"sprite": "ABC",
+			"name": "Mon28"
+		},
+		{
+			"id": "BCB",
+			"colors": [
+				"#1dd18f",
+				"#5ad44c",
+				"#adc5ff"
+			],
+			"sprite": "BBC",
+			"name": "Mon29"
+		},
+		{
+			"id": "BCC",
+			"colors": [
+				"#95e609",
+				"#fcf665",
+				"#faf7af"
+			],
+			"sprite": "BCC",
+			"name": "Mon30"
+		},
+		{
+			"id": "CAA",
+			"colors": [
+				"#f5750c",
+				"#fa5768",
+				"#ffb0b8"
+			],
+			"sprite": "AAC",
+			"name": "Mon31"
+		},
+		{
+			"id": "CAB",
+			"colors": [
+				"#9c6a16",
+				"#9a57f7",
+				"#adc5ff"
+			],
+			"sprite": "ABC",
+			"name": "Mon32"
+		},
+		{
+			"id": "CAC",
+			"colors": [
+				"#f7ab05",
+				"#faab57",
+				"#faf7af"
+			],
+			"sprite": "ACC",
+			"name": "Mon33"
+		},
+		{
+			"id": "CBA",
+			"colors": [
+				"#597810",
+				"#9a57f7",
+				"#ffb0b8"
+			],
+			"sprite": "ABC",
+			"name": "Mon34"
+		},
+		{
+			"id": "CBB",
+			"colors": [
+				"#1dd18f",
+				"#618efa",
+				"#adc5ff"
+			],
+			"sprite": "BBC",
+			"name": "Mon35"
+		},
+		{
+			"id": "CBC",
+			"colors": [
+				"#95e609",
+				"#5ad44c",
+				"#faf7af"
+			],
+			"sprite": "BCC",
+			"name": "Mon36"
+		},
+		{
+			"id": "CCA",
+			"colors": [
+				"#f7c40a",
+				"#faab57",
+				"#ffb0b8"
+			],
+			"sprite": "ACC",
+			"name": "Mon37"
+		},
+		{
+			"id": "CCB",
+			"colors": [
+				"#bdff08",
+				"#5ad44c",
+				"#adc5ff"
+			],
+			"sprite": "BCC",
+			"name": "Mon38"
+		},
+		{
+			"id": "CCC",
+			"colors": [
+				"#f7ee0a",
+				"#fcf665",
+				"#faf7af"
+			],
+			"sprite": "CCC",
+			"name": "Mon39"
+		},
+		{
+			"id": "XXX",
+			"colors": [
+				"#FFFFFF",
+				"#FFFFFF",
+				"#FFFFFF"
+			],
+			"sprite": "XXX",
+			"name": "Mon40"
+		},
+		{
+			"id": "YYY",
+			"colors": [
+				"#000000",
+				"#000000",
+				"#000000"
+			],
+			"sprite": "YYY",
+			"name": "Mon41"
+		},
+		{
+			"id": "ZZZ",
+			"colors": [
+				"",
+				"",
+				""
+			],
+			"sprite": "ZZZ",
+			"name": "Mon42"
+		}
+	]
+}
